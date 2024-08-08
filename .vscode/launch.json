@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Gabriel Henrique/Documents/FACULDADE/C",
-      "program": "c:/Users/Gabriel Henrique/Documents/FACULDADE/C/build/Debug/outDebug",
+      "cwd": "c:/Users/Gabriel Henrique/Documents/FACULDADE/C/output",
+      "program": "c:/Users/Gabriel Henrique/Documents/FACULDADE/C/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
